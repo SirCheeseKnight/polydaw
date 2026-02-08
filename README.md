@@ -1,6 +1,6 @@
-# PolyDAW 3
+# PolyDAW
 
-A Pen created on CodePen.
+Created on CodePen.
 
 Original URL: [https://codepen.io/boogergoober/pen/XJKxPgK](https://codepen.io/boogergoober/pen/XJKxPgK).
 
